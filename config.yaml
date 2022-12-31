@@ -2,17 +2,17 @@ baseurl: https://gujh14.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Coookgu's Tech Blog
+title: JH Gu's Tech Blog
 
 languages:
     en:
         languageName: English
-        title: Coookgu's Tech Blog
+        title: JH Gu's Tech Blog
         description: Tech Blog by @coookgu
         weight: 1
     ko:
         languageName: 한국어
-        title: Coookgu's Tech Blog
+        title: JH Gu's Tech Blog
         description: Tech Blog by @coookgu
         weight: 2
 

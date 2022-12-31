@@ -6,6 +6,7 @@ math: true
 categories:
 - Research - Technical
 tags:
+- NeurIPS 2021
 - Multi-task
 - Model fusion
 - Chemical conformation
@@ -51,3 +52,4 @@ Figure 1. PhysChem Architecture
     - Layer: fully connected layers
     - Output:
     - bond states, atom states for ChemNet  
+        $v^{(0)}_i = \text{FC}(x^v_i), i\in \mathcal{V}$, $e^{(0)}_{i,j} = \text{FC}(x^e_{i,j}), (i, j)\in \mathcal{E}$
