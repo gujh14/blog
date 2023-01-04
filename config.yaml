@@ -18,7 +18,7 @@ languages:
 
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: jh-gu-blog # hugo-theme-stack
 
 # GA Tracking ID
 googleAnalytics:
@@ -71,7 +71,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname:
+            shortname: jh-gu-blog
             apiUrl:
             apiKey:
             admin:
