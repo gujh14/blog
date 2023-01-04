@@ -4,7 +4,7 @@ date: "2022-07-29"
 draft: false
 math: true
 categories:
-- Research - Technical
+- Research(Technical)
 tags:
 - NeurIPS 2021
 - Multi-task

@@ -3,7 +3,7 @@ title: "CMap based Drug Repositioning of BTZ to reverse the metastatic effect of
 date: "2022-07-22"
 draft: false
 categories:
-- Research - Application
+- Research(Application)
 tags:
 - Oncogene 2020
 - Drug Repositioning
