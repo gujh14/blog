@@ -4,7 +4,7 @@ date: "2022-11-22"
 draft: false # set this to false when publishing
 math: true
 categories:
-- Research(Technical)
+- Research (Technical)
 tags:
 - GNN
 - Molecule

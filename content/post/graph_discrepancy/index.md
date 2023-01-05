@@ -4,7 +4,7 @@ date: "2022-09-21"
 draft: false # set this to false when publishing
 math: true
 categories:
-- Research(Technical)
+- Research (Technical)
 tags:
 - NeurIPS 2022
 - Molecule

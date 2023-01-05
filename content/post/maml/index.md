@@ -4,7 +4,7 @@ date: "2021-09-15"
 draft: false # set this to false when publishing
 math: true
 categories:
-- Research(Technical)
+- Research (Technical)
 tags:
 - ICML 2017
 - Meta Learning
