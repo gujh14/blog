@@ -52,7 +52,8 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Machine Learning researcher for Drug Discovery
+        subtitle:
+            Machine Learning researcher for Drug Discovery
         avatar:
             enabled: true
             local: true
