@@ -22,4 +22,6 @@ NeurIPS Poster, '21,
 
 ## Topic 2
 
+## Personal Opinion
+
 ## References

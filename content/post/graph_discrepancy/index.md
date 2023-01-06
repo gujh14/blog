@@ -5,13 +5,14 @@ draft: false # set this to false when publishing
 math: true
 categories:
 - Research (Technical)
+- NeurIPS
 tags:
 - NeurIPS 2022
 - Molecule
-image: 0.png
+image: thumbnail.png
 ---
 NeurIPS, '22,  
-<https://openreview.net/forum?id=SgZ-glWWUlq>
+[Graph Self-supervised Learning with Accurate Discrepancy Learning](https://openreview.net/forum?id=SgZ-glWWUlq)
 
 # Summary
 - Authors proposed a framework called D-SLA that aims to learn the exact discrepancy between the original and the perturbed graphs.

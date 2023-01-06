@@ -5,6 +5,7 @@ draft: false # set this to false when publishing
 math: true
 categories:
 - Research (Technical)
+- ICML
 tags:
 - ICML 2017
 - Meta Learning

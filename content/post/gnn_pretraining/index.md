@@ -5,15 +5,16 @@ draft: false # set this to false when publishing
 math: true
 categories:
 - Research (Technical)
+- NeurIPS
 tags:
+- NeurIPS 2022
 - GNN
 - Molecule
-- NeurIPS 2022
 - Pre-training
-image: 0.png
+image: thumbnail.png
 ---
-NeurIPS, '22 
-<https://arxiv.org/abs/2207.06010>
+NeurIPS, '22  
+[Does GNN Pre-training Help Molecular Representation?](https://arxiv.org/abs/2207.06010)
 
 # Summary
 - Self-supervised pre-training alone **does not** provide statistically significant improvements over non-pre-trained methods on downstream tasks.

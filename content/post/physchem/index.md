@@ -5,16 +5,17 @@ draft: false
 math: true
 categories:
 - Research (Technical)
+- NeurIPS
 tags:
 - NeurIPS 2021
 - Multi-task
 - Model fusion
 - Chemical conformation
 - Molecular property
-image: physchem_1.png
+image: thumbnail.png
 ---
 NeurIPS Poster, '21,  
-<https://arxiv.org/abs/2112.04624>
+[PhysChem: Deep Molecular Representation Learning via Fusing Physical and Chemical Information](https://arxiv.org/abs/2112.04624)
 
 # Summary
 - Used physicist network (PhysNet) and chemist network (ChemNet) simultaneously, and each network shares information to solve individual tasks.

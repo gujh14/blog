@@ -5,10 +5,12 @@ draft: false # set this to false when publishing
 math: true
 categories:
 - Research (Technical)
+- ICLR
 tags:
+- ICLR 2017
 - Few shot learning
 - GNN
-image: 0.png
+image: thumbnail.png
 ---
 ICLR, '17,  
 [Few-Shot Learning with Graph Neural Networks](https://arxiv.org/abs/1711.04043)

@@ -4,13 +4,14 @@ date: "2022-07-22"
 draft: false
 categories:
 - Research (Application)
+- Oncogene
 tags:
 - Oncogene 2020
 - Drug Repositioning
-image: cmap_0.png
+image: thumbnail.png
 ---
 Oncogene, '20  
-<https://www.nature.com/articles/s41388-020-1316-2>
+[CMap based Drug Repositioning of BTZ to reverse the metastatic effect of GALNT14 in lung cancer](https://www.nature.com/articles/s41388-020-1316-2)
 
 # Summary
 - In-silico approach based on CMap to identify drug candidates for lung cancer metastasis
