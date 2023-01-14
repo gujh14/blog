@@ -17,9 +17,9 @@ LoG, 22
 ["A Generalist Neural Algorithmic Learner"](https://arxiv.org/abs/2209.11142)
 
 # Summary
-- Neural network, especially GNN, can learn traditional computer science algorithms in CLRS book.
-- A generalist neural algorithmic learner is necessary if the algorithm is not obvious.
-- Chunking mechanism was important to stabilize multi-task learning.
+- Neural network, 그 중에서도 GNN은 전통적인 컴퓨터과학 알고리즘(CLRS 책에 기재된)을 학습할 수 있다.
+- 필요한 algorithm이 간단하지 않을 경우, generalist neural algorithmic learner가 필요하다.
+- 안정적인 multi-task learning에 있어서 chunking mechanism이 중요했다.
 
 ## Starting point: A benchmark to train neural computer scientists
 
