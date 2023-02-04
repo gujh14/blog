@@ -5,6 +5,7 @@ draft: false # set this to false when publishing
 math: true
 categories:
 - Talk
+- LoG
 tags:
 - Graph
 - Representation learning
