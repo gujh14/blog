@@ -13,10 +13,20 @@ menu:
             icon: user
 ---
 ## Profile
-- Ph.D student in Seoul National University, Seoul, Korea.  
-- Interested in Machine learning, Cheminformatics.
+- Ph.D student in Seoul National University, Seoul, Korea.
 
 ## Education
 - 2014.03 ~ 2016.02: Department of Chemical & Biological Enineering, Seoul National University
 - 2016.03 ~ 2020.02: Department of Pharmacy, Seoul National University
 - 2021.02 ~ : Interdisciplinary program of Artificial Intelligence, Seoul National University
+
+## Awards
+- 2022 Samsung AI Challenge (Materials Discovery) 3rd Place
+
+## Research Interest
+- Drug Discovery
+- Artificial Intelligence
+- Cheminformatics
+- Representation Learning
+- Graph Neural Network
+- 3D Geometric Learning
