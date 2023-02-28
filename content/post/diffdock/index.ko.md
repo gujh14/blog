@@ -16,8 +16,8 @@ ICLR, '23
 [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://arxiv.org/abs/2210.01776)
 
 - 본 논문은 molecular docking을 generative problem으로 간주한 첫 연구이자, 굉장히 흥미로운 결과들을 보여주었고, 성능 향상을 달성했다.
-- Diffusion과 molecular docking에 관심이 있다면 꼭 한 https://www.youtube.com/watch?v=gAmTGw601dA번 읽어봐야 할 논문이다.
-- 가능하다면 저자들이 본 논문에 대해 설명한 [youtube 영상]()도 보면 이해에 도움이 된다.
+- Diffusion과 molecular docking에 관심이 있다면 꼭 한 번 읽어봐야 할 논문이다.
+- 가능하다면 저자들이 본 논문에 대해 설명한 [youtube 영상](https://www.youtube.com/watch?v=gAmTGw601dA)도 보면 이해에 도움이 된다.
 
 # Summary
 
