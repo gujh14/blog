@@ -53,7 +53,7 @@ params:
     sidebar:
         emoji: 🍥
         subtitle:
-            Machine Learning researcher for Drug Discovery
+            Machine Learning researcher for Drug Discovery \\
             This blog is written in both English & Korean
         avatar:
             enabled: true

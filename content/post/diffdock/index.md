@@ -13,7 +13,15 @@ tags:
 image: thumbnail.png
 ---
 ICLR, '23 
-["DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking"](https://arxiv.org/abs/2210.01776)
+[DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://arxiv.org/abs/2210.01776)
+
+- This article is one of the first research work that formulated molecular docking as a generative problem.
+
+- Showed very interesting results with decent performance gain.
+
+- If you are interested in molecular docking and diffusion models, this is definitely a must-read paper!
+
+- It is highly recommended to watch [youtube video](https://www.youtube.com/watch?v=gAmTGw601dA) explained by the authors.
 
 # Summary
 
