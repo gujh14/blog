@@ -51,10 +51,9 @@ params:
         lastUpdated: Jan 01, 2023 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 🧑🏻‍💻
         subtitle:
-            Machine Learning researcher for Drug Discovery \\
-            This blog is written in both English & Korean
+            Machine Learning researcher for Drug Discovery. This blog is written in both English & Korean.
         avatar:
             enabled: true
             local: true
