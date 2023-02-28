@@ -30,3 +30,8 @@ menu:
 - Representation Learning
 - Graph Neural Network
 - 3D Geometric Learning
+
+## Experience
+- 2020.02 ~ 2020.04: Internship in Business Development at HurayPositive
+- 2021.09 ~ : Official member of Deepest
+- 2021.12 ~ : OG (Original Gangster) member of El Txoko ([eltxoko_seoul](https://instagram.com/eltxoko_seoul))
