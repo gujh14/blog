@@ -25,11 +25,10 @@ menu:
 
 ## Research Interest
 - Drug Discovery
-- Artificial Intelligence
-- Cheminformatics
 - Representation Learning
 - Graph Neural Network
 - 3D Geometric Learning
+- Generative learning (Diffusion models)
 
 ## Experience
 - 2020.02 ~ 2020.04: Internship in Business Development at HurayPositive

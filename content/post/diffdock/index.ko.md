@@ -10,11 +10,10 @@ tags:
 - ICLR 2023
 - Diffusion
 - Molecular Docking
-image: thumbnail.png
 ---
-ICLR, '23 
-
+ICLR, '23  
 [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://arxiv.org/abs/2210.01776)
+![](thumbnail.png)
 
 - 본 논문은 molecular docking을 generative problem으로 간주한 첫 연구이자, 굉장히 흥미로운 결과들을 보여주었고, 성능 향상을 달성했다.
 - Diffusion과 molecular docking에 관심이 있다면 꼭 한 번 읽어봐야 할 논문이다.

@@ -11,10 +11,10 @@ tags:
 - GNN
 - Link prediction
 - Temporal network
-image: thumbnail.png
 ---
 LoG, '22  
-["Neighborhood-aware Scalable Temporal Network Representation Learning"](https://arxiv.org/abs/2209.01084)
+[Neighborhood-aware Scalable Temporal Network Representation Learning](https://arxiv.org/abs/2209.01084)
+![](thumbnail.png)
 
 # Summary
     

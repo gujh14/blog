@@ -11,17 +11,17 @@ tags:
 - GNN
 - Molecule
 - Pre-training
-image: thumbnail.png
 ---
 NeurIPS, '22  
 [Does GNN Pre-training Help Molecular Representation?](https://arxiv.org/abs/2207.06010)
+![](thumbnail.png)
 
 # Summary
 - Self-supervised pre-training alone **does not** provide statistically significant improvements over non-pre-trained methods on downstream tasks.
 - **Data splits, hand-crafted rich features, or hyperparameters** can bring significant improvements.
 
 ## Preliminaries
-![Image 1](Untitled.png)
+![Image 1](imgs/Untitled.png)
 Pre-train objectives
 
 - Self-supervised
@@ -36,12 +36,12 @@ Graph features
 
 - Basic
     Feature set used in [Hu et al.](https://arxiv.org/abs/1905.12265)  
-    ![Image 1](Untitled1.png)
+    ![Image 1](imgs/Untitled1.png)
 
 - Rich
     
     Feature set used in [Rong et al.](https://arxiv.org/abs/2007.02835) This is the superset of basic features.
-    ![Image 1](Untitled2.png)
+    ![Image 1](imgs/Untitled2.png)
     In downstream tasks, additional 2d normalized `rdNormalizedDescriptors` are used (not in pre-training).
 
 Downstream splits
@@ -77,25 +77,25 @@ Pre-train dataset
 
 
 ## Results
-![](Untitled3.png)  
+![](imgs/Untitled3.png)  
 
-![](Untitled4.png)  
+![](imgs/Untitled4.png)  
 
-![](Untitled5.png)  
+![](imgs/Untitled5.png)  
 
-![](Untitled6.png)  
+![](imgs/Untitled6.png)  
 
-![](Untitled7.png)  
+![](imgs/Untitled7.png)  
 
-![](Untitled8.png)  
+![](imgs/Untitled8.png)  
 
-![](Untitled9.png)  
+![](imgs/Untitled9.png)  
 
-![](Untitled10.png)  
+![](imgs/Untitled10.png)  
 
-![](Untitled11.png)  
+![](imgs/Untitled11.png)  
 
-![](Untitled12.png)  
+![](imgs/Untitled12.png)  
 
 ## Key Takeaways
 ### When pre-training might help?

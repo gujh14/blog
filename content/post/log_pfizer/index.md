@@ -13,10 +13,10 @@ tags:
 - Pfizer
 - Bayer
 - LoG conference
-image: imgs/thumbnail.png
 ---
 LoG conference, '22,  
-["LoG conference Day 4 Youtube"](https://www.youtube.com/live/ouuxi5uW-JA?feature=share&t=8477)
+[LoG conference Day 4 Youtube](https://www.youtube.com/live/ouuxi5uW-JA?feature=share&t=8477)
+![](thumbnail.png)
 
 ## Lecturer: Djork-Arné Clevert
 - 2022.05.19~09.22: Bayer Pharma, Head of Machine Learning Research (All work presented today were published during Bayer.)

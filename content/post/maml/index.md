@@ -9,10 +9,10 @@ categories:
 tags:
 - ICML 2017
 - Meta Learning
-image: thumbnail.png
 ---
 ICML, '17  
 [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
+![](thumbnail.png)
 
 # Summary
 - MAML is a general and model-agnostic algorithm that can be directly applied to a model trained with **gradient descent** procedure.

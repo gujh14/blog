@@ -13,7 +13,7 @@ tags:
 image: thumbnail.png
 ---
 ICLR, '22,  
-["GRPE: Relative Positional Encoding for Graph Transformer"](https://arxiv.org/abs/2201.12787)
+[GRPE: Relative Positional Encoding for Graph Transformer](https://arxiv.org/abs/2201.12787)
 
 # Summary
 - a

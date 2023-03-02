@@ -9,10 +9,10 @@ categories:
 tags:
 - NeurIPS 2022
 - Molecule
-image: thumbnail.png
 ---
 NeurIPS, '22,  
 [Graph Self-supervised Learning with Accurate Discrepancy Learning](https://openreview.net/forum?id=SgZ-glWWUlq)
+![](thumbnail.png)
 
 # Summary
 - Authors proposed a framework called D-SLA that aims to learn the exact discrepancy between the original and the perturbed graphs.
@@ -65,7 +65,7 @@ Most prevalent framework for GSL
     
     But predictive learning **may not capture the global structures and/or semantics of graphs.**
     
-    ![](Untitled.png)
+    ![](imgs/Untitled.png)
     
 - Contrastive learning (CL)
     
@@ -77,9 +77,9 @@ Most prevalent framework for GSL
     
     But CL **may not distinguish two topologically similar graphs yet having completely different properties.**
     
-    ![](Untitled1.png)
+    ![](imgs/Untitled1.png)
     
-    ![](Untitled2.png)
+    ![](imgs/Untitled2.png)
     
     Minimize $\mathcal{L}\_{CL} = - \log \frac{f\_{\text{sim}} (h\_{\mathcal{G}_i}, h\_{\mathcal{G}_j})}{\sum\_{\mathcal{G}', \mathcal{G' \neq \mathcal{G}_0}}f\_{\text{sim}}(h\_{\mathcal{G}_i}, h\_{\mathcal{G}'})}$
     
@@ -94,7 +94,7 @@ Most prevalent framework for GSL
 
 ## Discrepancy Learning
 
-![](Untitled3.png)
+![](imgs/Untitled3.png)
 
 1. Discriminate original vs perturbed
     
@@ -175,8 +175,8 @@ $\mathcal{L} = \mathcal{L}\_{GD} + \lambda_1 \mathcal{L}\_{edit} + \lambda_2 \ma
 
 ## Results
 
-![](Untitled4.png)
+![](imgs/Untitled4.png)
 
-![](Untitled5.png)
+![](imgs/Untitled5.png)
 
-![](Untitled6.png)
+![](imgs/Untitled6.png)

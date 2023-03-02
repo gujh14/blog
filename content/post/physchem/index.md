@@ -12,10 +12,10 @@ tags:
 - Model fusion
 - Chemical conformation
 - Molecular property
-image: thumbnail.png
 ---
 NeurIPS Poster, '21,  
 [PhysChem: Deep Molecular Representation Learning via Fusing Physical and Chemical Information](https://arxiv.org/abs/2112.04624)
+![](thumbnail.png)
 
 # Summary
 - Used physicist network (PhysNet) and chemist network (ChemNet) simultaneously, and each network shares information to solve individual tasks.

@@ -11,10 +11,10 @@ tags:
 - GNN
 - Multi-task
 - Algorithmic learner
-image: thumbnail.png
 ---
 LoG, 22    
-["A Generalist Neural Algorithmic Learner"](https://arxiv.org/abs/2209.11142)
+[A Generalist Neural Algorithmic Learner](https://arxiv.org/abs/2209.11142)
+![](thumbnail.png)
 
 # Summary
 - Neural network, especially GNN, can learn traditional computer science algorithms in CLRS book.

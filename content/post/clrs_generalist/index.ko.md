@@ -11,10 +11,10 @@ tags:
 - GNN
 - Multi-task
 - Algorithmic learner
-image: thumbnail.png
 ---
 LoG, 22    
-["A Generalist Neural Algorithmic Learner"](https://arxiv.org/abs/2209.11142)
+[A Generalist Neural Algorithmic Learner](https://arxiv.org/abs/2209.11142)
+![](thumbnail.png)
 
 # Summary
 - Neural network, 그 중에서도 GNN은 전통적인 컴퓨터과학 알고리즘(CLRS 책에 기재된)을 학습할 수 있다.

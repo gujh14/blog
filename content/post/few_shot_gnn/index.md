@@ -10,10 +10,10 @@ tags:
 - ICLR 2017
 - Few shot learning
 - GNN
-image: thumbnail.png
 ---
 ICLR, '17,  
 [Few-Shot Learning with Graph Neural Networks](https://arxiv.org/abs/1711.04043)
+![](thumbnail.png)
 
 # Summary
 - Used similarity value between samples for few shot learning.
@@ -43,15 +43,15 @@ ICLR, '17,
         
         Learning from a mixture of labeled and unlabeled examples
         
-        ![[https://blog.est.ai/2020/11/ssl/](https://blog.est.ai/2020/11/ssl/)](Untitled2.png)
+        ![[https://blog.est.ai/2020/11/ssl/](https://blog.est.ai/2020/11/ssl/)](imgs/Untitled2.png)
         
     - Active learning:
         
         The learner has the option to request those missing labels that will be most helpful for the prediction task
         
-        ![ICML 2019 active learning tutorial](Untitled3.png)
+        ![ICML 2019 active learning tutorial](imgs/Untitled3.png)
         
-        ![Annotated by JH Gu](Untitled4.png)
+        ![Annotated by JH Gu](imgs/Untitled4.png)
 
 ## Closely related works and ideas
 
@@ -59,11 +59,11 @@ ICLR, '17,
     - Mapped support set of images into the desired label.
     - And developed an end-to-end trainable k-nearest neighbors, accepting those support sets as input via attention LSTM.
         
-        ![Vinyals et al.(2016), cited over 3000 times](Untitled5.png)  
+        ![Vinyals et al.(2016), cited over 3000 times](imgs/Untitled5.png)  
         
-        ![](Untitled6.png)
+        ![](imgs/Untitled6.png)
         
-        ![](Untitled7.png)
+        ![](imgs/Untitled7.png)
         
         - $k$: number of data in support set
         - $\hat{x}$: new data
@@ -72,7 +72,7 @@ ICLR, '17,
         - $a$: attention mechanism, which is a kernel
 - [Research article] Prototypical Networks for Few-shot Learning - Snell et al.(2017)
     
-    ![](Untitled8.png)
+    ![](imgs/Untitled8.png)
     
     ![https://blog.kakaocdn.net/dn/QTf75/btqV2blwJop/GPGDedaSftJNpHDXvq2XGk/img.gif](https://blog.kakaocdn.net/dn/QTf75/btqV2blwJop/GPGDedaSftJNpHDXvq2XGk/img.gif)
     
@@ -82,13 +82,13 @@ ICLR, '17,
     - Similarity: $-\text{Euclidean distance}$
 - [Review article] Geometric deep learning - Bronstein et al.(2017)
     
-    ![](Untitled9.png)
+    ![](imgs/Untitled9.png)
     
     > "Geometric deep learning is an umbrella term for emerging techniques attempting to generalize deep models to non-Euclidian domains such as graphs and manifolds"
     > 
 - [Research article] Message passing - Gilmer et al.(2017)
     
-    ![](Untitled10.png)
+    ![](imgs/Untitled10.png)
     
     $$
     m^{t+1}_v = \sum\_{w \in N(v)} M_t(h^t_v, h^t_w, e\_{vw}) \\ h^{t+1}_v = U_t(h^t_v, m^{t+1}_v )
@@ -115,7 +115,7 @@ Authors view the task as a supervised interpolation problem on a graph
 
 Input-output pairs $(\mathcal{T}_i, Y_i)_i$ drawn from i.i.d. from a distribution $\mathcal{P}$ of partially labeled image collections
 
-![](Untitled11.png)
+![](imgs/Untitled11.png)
 
 - $s$: # labeled samples
 - $r$: # unlabled samples
@@ -146,7 +146,7 @@ The learner has the ability to request labels from the auxiliary images $\{\tild
 
 ## Model
 
-![](Untitled12.png)
+![](imgs/Untitled12.png)
 
 - $\phi(x)$: CNN
 - $h(l)$: One-hot encoded label(for labeled set), or uniform distribution(for unlabeled set)
@@ -167,11 +167,11 @@ c.f.) in Siamese network, the similarity measure is fixed(L1 distance)!
 
 본 논문(Few shot learning with GNN)에 쓰인 문장 구조가 이상해서 헷갈리게 쓰여있음.
 
-![Koch et al.(2015), [https://tyami.github.io/deep learning/Siamese-neural-networks/](https://tyami.github.io/deeplearning/Siamese-neural-networks/)](Untitled13.png)
+![Koch et al.(2015), [https://tyami.github.io/deep learning/Siamese-neural-networks/](https://tyami.github.io/deeplearning/Siamese-neural-networks/)](imgs/Untitled13.png)
 
 ### Graph Neural Networks
 
-![](Untitled14.png)
+![](imgs/Untitled14.png)
 
 We are given an input signal $F \in \mathbb{R}^{V \times d}$ on the vertices of a weighted graph $G$.
 
@@ -287,21 +287,21 @@ $$
 
 Omniglot
 
-![](Untitled15.png)
+![](imgs/Untitled15.png)
 
 \# of parameters: $\sim5\text{M} (\text{TCML})$, $\sim300 \text{K}(3 \text{layers GNN})$
 
 Omniglot: 1,623 characters  X 20 examples for each characters
 
-![Omniglot](Untitled16.png)
+![Omniglot](imgs/Untitled16.png)
 
 Mini-ImageNet: Originally introduced by Vinyals et al.(2016)
 
-![](Untitled17.png)
+![](imgs/Untitled17.png)
 
 \# of parameters: $\sim 11\text{M} (\text{TCML})$, $\sim 400 \text{K}(3 \text{ layers GNN})$
 
-![Mini-ImageNet](Untitled18.png)
+![Mini-ImageNet](imgs/Untitled18.png)
 
 Mini-ImageNet
 
@@ -311,15 +311,15 @@ Divided into 64 training, 16 validation, 20 testing classes each containing 600 
 
 Omniglot
 
-![](Untitled19.png)
+![](imgs/Untitled19.png)
 
 Mini-ImageNet
 
-![](Untitled20.png)
+![](imgs/Untitled20.png)
 
 ### Active learning
 
-![](Untitled21.png)
+![](imgs/Untitled21.png)
 
 Random: Network chooses a random sample to be labeled, instead of one that maximally reduces the loss of the classification task $\mathcal{T}$
 

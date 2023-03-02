@@ -1,5 +1,5 @@
 ---
-title: "Useful Sources for Molecule Learning (in Progress)"
+title: "Useful Resources for Molecule Learning (in Progress)"
 date: "2023-03-01"
 draft: false # set this to false when publishing
 math: true
